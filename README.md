@@ -1,4 +1,6 @@
 # FliprHackathon-6.0
+Team name Reboot Rebels
+Team : Sarvesh S and Sanjay Kumar K
 Task 1
 How to use- Place all the files which are available in the Task1 folder in the same directory. The order to be followed is:
 Each file has locations marked where you need to pass the address to your dataset files. Each of the preprocessing files will output a data file which will be take up by the next file. The final predictions file output a file with the predicted covid cases for each data provided in the test dataset.
